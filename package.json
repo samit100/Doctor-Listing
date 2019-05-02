@@ -1,1 +1,19 @@
 
+
+  "name": "Doctor Listing",
+  "version": "1.0",
+  "description": "NodeJS module for building GitHub Apps",
+  "repository": "https://github.com/samit100/Doctor-Listing",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Samit",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "standard": {
+  }
+}
